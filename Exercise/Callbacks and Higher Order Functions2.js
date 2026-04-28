@@ -20,7 +20,7 @@ function forEach(array, operation) {
 const newEmployeeSalaries = forEach(employeeSalaries, addSalary5000);
 
 console.log(newEmployeeSalaries);
-console.log(newEmployeeSalaries); // [25005, 45000, 37000, 19500, 349000]
+console.log(newEmployeeSalaries); 
 
 
 // //====================================
