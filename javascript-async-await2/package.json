@@ -1,0 +1,29 @@
+{
+  "name": "js-hh-asynchronous-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex-1.js",
+  "type": "module",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techupth/js-hh-asynchronous-in-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techupth/js-hh-asynchronous-in-js/issues"
+  },
+  "homepage": "https://github.com/techupth/js-hh-asynchronous-in-js#readme",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "jest": "^29.3.1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "pg": "^8.11.1"
+  }
+}
